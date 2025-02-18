@@ -44,5 +44,4 @@ public class SanPham {
 	public String toString() {
 		return "[Ma SP=" + maSP + ", Ten SP=" + tenSP + ", Loai SP=" + loaiSP + "]";
 	}
-
 }
